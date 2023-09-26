@@ -13,6 +13,7 @@
     width: 100%;
     background-color: #000;
     color: #fff;
+    border-bottom: 5px solid #daa520;
 }
 
 .panel{
@@ -26,13 +27,19 @@
     height: 150px;
     width: 150px;
     border: 1px solid #000;
-    background-color: #7fffd4;
+    background-color: #1aeaa5;
 }
 
 .enemy{
     background-image: url("../images/ralph.png");
     background-size: cover;
     background-position: center center;
+}
+
+.menu-lifes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 

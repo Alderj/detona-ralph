@@ -1,4 +1,4 @@
-# Bootecamp Potência Tech iFood - Desenvolvimento de Jogos
+# Bootcamp Potência Tech iFood - Desenvolvimento de Jogos
 
 Desafio do Projeto - Criando um Jogo do Detona Ralph com Javascript
 

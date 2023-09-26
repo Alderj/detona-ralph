@@ -2,10 +2,10 @@
 
 Desafio do Projeto - Criando um Jogo do Detona Ralph com Javascript
 
-<img src="https://github.com/Alderj/detona-ralph/blob/main/github/preview.png?raw=true"  />
+<img src="https://github.com/Alderj/detona-ralph/blob/main/github/preview.png?raw=true" />(https://alderj.github.io/detona-ralph/)  
 
 
-[clique aqui para acessar](https://alderj.github.io/detona-ralph/)     
+[clique aqui para acessar]   
 
 > Tecnologias
 
